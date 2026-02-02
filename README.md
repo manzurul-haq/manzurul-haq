@@ -5,7 +5,7 @@
 ### 🚀 About Me
 I am a **Beginner Web Developer** with a clear goal in mind.
 - 🎯 **Mission:** Learn daily 
-- 📚 **Learning:** HTML, CSS, JS 
+- 📚 **Learning:** HTML, CSS
 - 🌱 **Status:** 0% Expert, 100% Focused
 
 ---
