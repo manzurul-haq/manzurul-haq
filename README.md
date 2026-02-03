@@ -11,4 +11,4 @@ I am a **Beginner Web Developer** with a clear goal in mind.
 ---
 
 ### 📈 Current Progress
-Check out my journey here: [my-daily-learning-logs](https://github.com/manzurul-haq/my-daily-learning-logs)
+Check out my journey here: [my-code-lab](https://github.com/manzurul-haq/my-code-lab)
